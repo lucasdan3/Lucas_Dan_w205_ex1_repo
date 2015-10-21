@@ -1,0 +1,15 @@
+Using our SQL query best_states.sql we see the output below:
+
+state	total_score
+DC	100.9852941
+MD	100.3798799
+DE	99.9874477
+NY	96.80901713
+NJ	96.39256536
+NV	96.01920768
+NH	95.55102041
+VI	95.45833333
+CA	95.29843735
+CT	95.1552381
+
+This methodology is good because it is the same logic as best_hospitals.sql but groups by hospital state instead of hospital_name.

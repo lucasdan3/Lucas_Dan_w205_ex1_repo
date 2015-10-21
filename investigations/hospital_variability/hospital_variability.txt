@@ -1,0 +1,15 @@
+Using the SQL code from our hospital_variability.sql script, we have the output below containing 10 procedures with the greatest variability between hospitals:
+
+measure_name
+Prophylactic Antibiotic Selection for Surgical Patients
+Cardiac surgery patients with controlled 6 a.m. postoperative blood glucose
+Evaluation of LVS Function
+Fibrinolytic Therapy Received Within 30 Minutes Of Hospital Arrival
+Initial antibiotic selection for CAP in immunocompetent patient
+Postoperative Urinary Catheter Removal
+Primary PCI Received Within 90 Minutes of Hospital Arrival
+Prophylactic antibiotic received within 1 hour prior to surgical incision
+Prophylactic antibiotics discontinued within 24 hours after surgery end time
+Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period
+
+This logic is solid because it effeciently measures procedural variability between hospitals.

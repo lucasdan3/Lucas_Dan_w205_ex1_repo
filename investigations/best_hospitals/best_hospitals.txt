@@ -1,0 +1,15 @@
+The SQL query best_hospitals.sql selects the 10 highest quality hospitals, as shown below:
+
+hospital_name	total_score
+FALLS COMMUNITY HOSPITAL AND CLINIC	235.5833333
+BEAR VALLEY COMMUNITY HOSPITAL	175.3333333
+HOSP COMUNITARIO BUEN SAMARITANO	167.25
+MEDINA REGIONAL HOSPITAL	136
+NEWARK BETH ISRAEL MEDICAL CENTER	134.8157895
+REDWOOD MEMORIAL HOSPITAL	130.3333333
+HOSPITAL HERMANOS MELENDEZ INC	130.2105263
+MERCY HOSPITAL CASSVILLE	128
+COMMUNITY MEMORIAL HOSPITAL, INC	127.6666667
+BOONE MEMORIAL HOSPITAL	125.3333333
+
+This methodology is acceptable given the underlying data because the logic in our SQL query averages quality of care scores and these are the highest with a large sample size.

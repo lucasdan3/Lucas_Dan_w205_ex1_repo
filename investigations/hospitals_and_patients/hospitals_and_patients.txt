@@ -1,0 +1,5 @@
+The correlation coefficient is shown below:
+
+0.46
+
+Thus, there is a slightly positive correlation in terms of average scores for hospital quality of care and patient survey responses. This makes sense because it suggests that high quality of care typically coincides with high patient satisfaction.
